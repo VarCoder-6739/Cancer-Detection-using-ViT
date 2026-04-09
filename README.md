@@ -21,8 +21,9 @@ This project detects skin cancer using Vision Transformer(ViT) models eg.,Swin T
 ## 📁 Dataset
 - HAM10000 Dataset
 
-##⚙️ Installation
+## ⚙️ Installation
 '''bash
 git clone https://github.com/VarCoder-6739/Cancer-Detection-using-ViT.git
 cd Cancer-Detection-using-ViT
+
 pip install -r requirements.txt
