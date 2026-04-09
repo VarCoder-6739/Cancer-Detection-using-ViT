@@ -5,18 +5,24 @@
 ## 📍Overview
 This project detects skin cancer using Vision Transformer(ViT) models eg.,Swin Transformer, DeiT model, BEiT and Pyramid Vision Transformer provide explainable outputs using Multimodal Vision LLM + RAG.
 
-## Features
+## 🔍Features
 - Skin cancer classification in 7 different classes using ViT and its models.
 - Highlight affected skin region
 - Explain prediction and final diagnosis using Vision LLM (RAG-based)
 - Handles imbalanced dataset
 
-## Framework/Technology/Tools
+## 💻Framework/Technology/Tools
 - Python
 - PyTorch, Sci-kit Learn
 - Numpy, Pandas, Matplotlib
 - Vision Transformer(ViT), Swin Transformer, DeiT, BEiT, PVT
 - VLLMs + Langchain/LangGraph + RAG
 
-## Dataset
+## 📁 Dataset
 - HAM10000 Dataset
+
+##⚙️ Installation
+'''bash
+git clone https://github.com/VarCoder-6739/Cancer-Detection-using-ViT.git
+cd Cancer-Detection-using-ViT
+pip install -r requirements.txt
