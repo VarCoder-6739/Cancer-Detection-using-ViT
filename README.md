@@ -1,9 +1,9 @@
 # Cancer-Detection-using-ViT
 
-# Skin Cancer Detection using Vision Transformer + RAG 
+# Explainable Skin Cancer Detection using Vision Transformer and Vision LLMs.
 
 ## 📍Overview
-This project detects skin cancer using Vision Transformer(ViT) models eg.,Swin Transformer, DeiT model, BEiT and Pyramid Vision Transformer provide explainable outputs using Multimodal Vision LLM + RAG.
+This project detects skin cancer using Vision Transformer(ViT) models eg.,Swin Transformer, DeiT model, BEiT and Pyramid Vision Transformer provide explainable outputs using Multimodal Vision LLM (Llama3.2-vision) 
 
 ## 🔍Features
 - Skin cancer classification in 7 different classes using ViT and its models.
@@ -16,7 +16,7 @@ This project detects skin cancer using Vision Transformer(ViT) models eg.,Swin T
 - PyTorch, Sci-kit Learn
 - Numpy, Pandas, Matplotlib
 - Vision Transformer(ViT), Swin Transformer, DeiT, BEiT, PVT
-- VLLMs + Langchain/LangGraph + RAG
+- VLLMs(meta Llama3.2-vision)
 
 ## 📁 Dataset
 - HAM10000 Dataset
